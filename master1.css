@@ -1,0 +1,39 @@
+html { 
+  background: url(img/y.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+  font-family:Arial,Helvertica,sans-serif; 
+  }
+.prof{
+	width: 500px;
+	height: 650px;
+	background: rgba(0,0,0,0.4);
+	padding: 40px;
+	color: white;
+	margin: 0 auto;
+	margin-top: 0px;
+	text-align:center;
+}
+.prof-pic{
+	border-radius: 50%;
+	height: 200px;
+	width: 200px;
+}
+h2{
+
+	letter-spacing: 1;
+	font-size: 40px;
+	font-family: verdana;
+}
+p{
+	font-weight: 100s;
+	letter-spacing: 1;
+	font-family:verdana;
+}
+h4{
+
+	font-family: verdana;
+}

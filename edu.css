@@ -1,0 +1,41 @@
+html{
+
+	background: url(img/y.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: 'Helvetica Neue', sans-serif;  
+}
+.prof-edu{
+	width: 800px;
+	height: 300px;
+	background: rgba(0,0,0,0.4);
+	padding: 25px;
+	color: white;
+	margin: 0 auto;
+	margin-top: 100px;
+	table-layout: fixed;
+}
+table{
+	text-align: center;
+	
+}
+th{
+	font-size: 20px;
+	color: yellow;
+}
+td{
+	font-size: 15px;
+
+	color: white;
+	paint-order: 10px;
+}
+caption{
+	color: white;
+	font-size: 25px;
+	font-variant: all;
+} 
+a{font-size: 15px;
+	color: cyan;
+}
